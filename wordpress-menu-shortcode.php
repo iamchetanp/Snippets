@@ -1,5 +1,5 @@
 /**
- * Create shortcode for get menu in HTML format.
+ * Create shortcode to get WordPress menu in HTML format.
  * How to use? [cp_wp_menu name="Main Menu"]
  *
  * @param array $atts Array of attributes.
