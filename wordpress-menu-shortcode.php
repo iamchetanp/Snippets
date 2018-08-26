@@ -12,7 +12,7 @@ function cp_wp_menu_shortcode( $atts ) {
 	), $atts );
 
 	return wp_nav_menu( array(
-		'menu' => $name,
+		'menu' => $menu['name'],
 		'echo' => false,
 	) );
 }
